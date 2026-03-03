@@ -1,3 +1,15 @@
+There is an issue that neuro can have a bug.
+
+
+
+
+
+
+
+
+
+# Original README
+
 # Распознавание церковнославянского шрифта
 
 Статья на [Springer Link](https://link.springer.com/article/10.1134/S105466182401019X)
