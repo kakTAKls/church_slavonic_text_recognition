@@ -1,6 +1,7 @@
 # There is an issue that neuro can have a bug
 
 Checked four photos
+![Первый анализ](/TEST/screenshots/four simultanios.png)
 
 # Original README
 
