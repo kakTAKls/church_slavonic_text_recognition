@@ -70,7 +70,7 @@ def remove_small_contours(sorted_contours):
     return new_contours
 
 
- def cropp_letter(letter, a, b, c, d):
+def cropp_letter(letter, a, b, c, d):
     a_index = a - 1 if a != 0 else a
     c_index = c - 1 if c != 0 else c
     return letter[a_index:b+1, c_index:d+1]
